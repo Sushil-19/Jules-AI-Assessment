@@ -1,0 +1,16 @@
+26 Sep 2024: 12:35PM : started the task1 
+26 Sep 2024: 3:03PM : completed task1, task2, task3, task4
+
+The testing endpoints for server are created as below, you can test it in postman or just execute the curl commands as below (for MAC-OS), for windows powershell, try using "curl.exe" instead of "curl" if not works.
+
+Task 2.1: Get Overall Requests:
+curl http://localhost:3000/api/overall-requests
+
+Task 2.2: Get Unique Visitors:
+curl http://localhost:3000/api/unique-visitors
+
+Task 2.3: Get Requested Files:
+curl http://localhost:3000/api/requested-files
+
+Task 2.4: Get 404 Files:
+curl http://localhost:3000/api/404-files
