@@ -3,7 +3,7 @@
 ### clone the repo
 ```bash
 git clone https://github.com/Sushil-19/Jules-AI-Assessment.git
-cd ules-AI-Assessment
+cd Jules-AI-Assessment
 ```
 
 ### Install Dependancies
