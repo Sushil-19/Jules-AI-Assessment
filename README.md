@@ -38,4 +38,5 @@ Task 2.4: Get 404 Files:
 curl http://localhost:3000/api/404-files
 ```
 
-Video Link : 
+Video Link : https://youtu.be/--2_JSOej8k
+The video is accessible to only rizky@julesai.com email id. If you want to access it, please mail me an access request.
